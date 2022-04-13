@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Soren</h3>
-<h3 align="center">Wr - Clairo</h3>
+<h3>Wr - Clairo</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
