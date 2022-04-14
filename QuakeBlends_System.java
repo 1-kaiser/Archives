@@ -1,3 +1,10 @@
+// -- Contributors
+// John Kevin Goto
+// Renz Daniel Indita
+// Mark Ivan Empleo
+// Alexander Arendain
+// Soren1999
+
 package system_project;
 import java.util.*;
 public class QuakeBlends_System {
@@ -853,7 +860,7 @@ public class QuakeBlends_System {
 									    				case 8:
 									    					
 									    					System.out.println("================================================================================================================");
-									    					System.out.println("\nYour order is number "+food_order+" which is Classic Beef Lasagna\n\n - Classic Beef Lasagna is made with savory meat, creamy béchamel\nsauce and lasagna baked with a topping of mozzarella cheese.Penne Pesto\nwith Mushroom is also a great choice for those looking for a quick and\ndelicious meal, it is made with penne that is sautéed with button\nmushroom and creamy pesto sauce.");
+									    					System.out.println("\nYour order is number "+food_order+" which is Classic Beef Lasagna\n\n - Classic Beef Lasagna is made with savory meat, creamy bÃ©chamel\nsauce and lasagna baked with a topping of mozzarella cheese.Penne Pesto\nwith Mushroom is also a great choice for those looking for a quick and\ndelicious meal, it is made with penne that is sautÃ©ed with button\nmushroom and creamy pesto sauce.");
 									    					System.out.print("\nPRICE: "+foods[7] +"\nQUANTITY: "); food_quantity = sc.nextInt();
 									    					System.out.println("================================================================================================================");
 							     							System.out.println("TOTAL: "+(food_total=foods[7]*food_quantity));
@@ -1237,7 +1244,7 @@ public class QuakeBlends_System {
 									 			
 									 			if(coffee_order==2) {
 								 					System.out.println("\n=================================================================================================================================");
-								 					System.out.println("Mocha\n\n- A caffé mocha is basically a chocolate-flavored variant of a caffé latte so it’s");
+								 					System.out.println("Mocha\n\n- A caffÃ© mocha is basically a chocolate-flavored variant of a caffÃ© latte so itÂ’s");
 									 			}
 									 			
 									 			if(coffee_order==3) {
@@ -4819,7 +4826,7 @@ public class QuakeBlends_System {
 									 	 		
 									 	 		if(frappe[0]==1) {
 								 					System.out.println("\n=================================================================================================================================");
-								 					System.out.println("Java Chip\n\n- is a popular chips with coffee, milk and ice”, \nthen topped “with whipped cream and mocha drizzle.”");
+								 					System.out.println("Java Chip\n\n- is a popular chips with coffee, milk and iceÂ”, \nthen topped Â“with whipped cream and mocha drizzle.Â”");
 								 				}
 									 	 		
 									 	 		if(frappe[0]==2) {
